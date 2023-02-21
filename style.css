@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(234, 209, 42);
+}
+
+input[type="text"] {
+  padding: 0.2em;
+  font-size: 1.2em;
+  margin-right: 0.5em;
+  font-weight: 800;
+  border: 2px solid rgb(13, 13, 14);
+}
+h1{
+  animation: animate 1s alternate-reverse infinite;
+  }
+  
+
+button {
+  padding: 0.2em 1em;
+  background-color: rgb(0, 255, 255);
+  color: rgb(21, 20, 20);
+  border: none;
+  font-size: 1.2em;
+  font-weight: 800;
+  border: 2px solid rgb(7, 45, 81);
+}
+
